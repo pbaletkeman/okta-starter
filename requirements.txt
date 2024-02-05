@@ -1,0 +1,6 @@
+litestar[full]~=2.5.1
+litestar-aiosql
+asyncio
+
+requests~=2.31.0
+pydantic~=2.5.3
